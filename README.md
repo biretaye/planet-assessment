@@ -11,4 +11,4 @@ The program then stores these elements as key,value pairs in a hashmap then stor
 
 Output file is written by iterating througb these files and rearranging the formatting as specified. When writing the output file, default values are assigned for missing element vaues. 
 
-
+More details are included as comments in the code. 
